@@ -10,7 +10,6 @@ A simple Flutter app for tracking meals, calories, and timestamps.
 ## 🛠️ Tech Stack
 - **Flutter** (Dart)
 - **Hive** for local storage
-- **Provider** for state management
 
 ## 📦 Installation
 1. Clone the repo:
